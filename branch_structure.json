@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/init-profile-non-ascii-cwd",
+    "jd/heaoss-6-01-release-qualification-decisions",
+    "jd/heaoss-6-02-release-policy-contracts",
+    "jd/heaoss-6-03-qualification-evidence-contracts",
+    "jd/heaoss-6-04-candidate-manifest-cli",
+    "main",
+    "origin",
+    "release-please--branches--main--components--headroom-ai"
+  ],
+  "parent": {
+    "fix/init-profile-non-ascii-cwd": "main",
+    "jd/heaoss-6-01-release-qualification-decisions": "main",
+    "jd/heaoss-6-02-release-policy-contracts": "main",
+    "jd/heaoss-6-03-qualification-evidence-contracts": "main",
+    "jd/heaoss-6-04-candidate-manifest-cli": "main",
+    "main": null,
+    "origin": "main",
+    "release-please--branches--main--components--headroom-ai": "main"
+  },
+  "order": [
+    "main",
+    "fix/init-profile-non-ascii-cwd",
+    "jd/heaoss-6-01-release-qualification-decisions",
+    "jd/heaoss-6-02-release-policy-contracts",
+    "jd/heaoss-6-03-qualification-evidence-contracts",
+    "jd/heaoss-6-04-candidate-manifest-cli",
+    "origin",
+    "release-please--branches--main--components--headroom-ai"
+  ]
+}
